@@ -1,2 +1,4 @@
 def feature1:
         print "this is feature 1 branch"
+def newfunction:
+print"this is new feature branch"
